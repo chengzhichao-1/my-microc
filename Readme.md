@@ -8,6 +8,7 @@
 - 学生学号：31902009，31903145
 - 学生姓名：程志超，符佳妮
 - 实验指导教师：张芸
+- github地址：[chengzhichao-1/my-microc (github.com)](https://github.com/chengzhichao-1/my-microc)
 
 ## 简介
 
